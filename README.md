@@ -2,8 +2,6 @@
 
 ServerStatus is a full rewrite of [mojeda's](https://github.com/mojeda) [ServerStatus](https://github.com/mojeda/ServerStatus) script, which in turn is a modified version of [BlueVM's](http://www.lowendtalk.com/discussion/comment/169690#Comment_169690) script.
 
-### Live demo:
-* https://status.botox.bz/
 
 There are many things which I dislike about the original script, for example:
 * requires webserver and PHP for every client
@@ -246,4 +244,3 @@ If you plan on modifying this project I'd be happy if you let me know!
 ## Credits
 Obviously the original script from [BlueVM](http://www.lowendtalk.com/discussion/comment/169690#Comment_169690) and [mojeda's](https://github.com/mojeda) [fork](https://github.com/mojeda/ServerStatus).
 
-I'd also like to thank the [Teeworlds](https://github.com/teeworlds/teeworlds) project for some of the code which has been used in this project.
